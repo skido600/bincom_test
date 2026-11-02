@@ -1,3 +1,7 @@
 # deps
 
 env
+.env
+./env
+/env
+./env
